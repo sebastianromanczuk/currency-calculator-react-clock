@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Currency-calculator-react-clock
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+!(https://github.com/sebastianromanczuk/currency-calculator-react-clock/blob/main/public/Clock-Calculator-React.gif)
 
 ## Available Scripts
 
