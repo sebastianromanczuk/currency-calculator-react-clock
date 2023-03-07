@@ -1,6 +1,6 @@
 # Currency-calculator-react-clock
 
-!(https://github.com/sebastianromanczuk/currency-calculator-react-clock/blob/main/public/Clock-Calculator-React.gif)
+![Currency-clock](https://github.com/sebastianromanczuk/currency-calculator-react-clock/blob/main/public/Clock-Calculator-React.gif)
 
 ## Available Scripts
 
