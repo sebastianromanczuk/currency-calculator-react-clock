@@ -2,7 +2,21 @@
 
 ![Currency-clock](https://github.com/sebastianromanczuk/currency-calculator-react-clock/blob/main/public/Clock-Calculator-React.gif)
 
-## Available Scripts
+## Here I used technologies such as are in the repository, I added a watch to the currency calculator that is transparent to the eye and you can safely read the time and date, see you later.
+
+### DEMO: 
+
+## Technologies used:
+
+# HTML
+
+# CSS
+
+# JAVASCRIPT
+
+# REACT
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In the project directory, you can run:
 
