@@ -4,7 +4,7 @@
 
 ## Here I used technologies such as are in the repository, I added a watch to the currency calculator that is transparent to the eye and you can safely read the time and date, see you later.
 
-### DEMO: 
+### DEMO: https://sebastianromanczuk.github.io/currency-calculator-react-clock/
 
 ## Technologies used:
 
